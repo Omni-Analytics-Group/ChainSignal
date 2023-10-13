@@ -45,10 +45,6 @@ tbot_channel <- "**********"
 covkey <- "***_****************************"
 ```
 
-<img src="www/telegram.png" align="center"/>
-<div align="center">R Telegram Configuration</div>
-<br>
-
 #### 5. Run the Background Job
 
 ```
