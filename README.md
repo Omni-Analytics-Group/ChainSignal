@@ -87,3 +87,17 @@ runApp()
 <br>
 
 #### 8. Results
+
+![](https://github.com/Omni-Analytics-Group/ChainSignal/www/ResultDash.gif)
+<div align="center">Dashboard</div>
+<br>
+
+
+![](https://github.com/Omni-Analytics-Group/ChainSignal/www/ResultERC20.gif)
+<div align="center">ERC20 Tx Alert</div>
+<br>
+
+
+![](https://github.com/Omni-Analytics-Group/ChainSignal/www/ResultNFT.gif)
+<div align="center">NFT Tx Alert</div>
+<br>
