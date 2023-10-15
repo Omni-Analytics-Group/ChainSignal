@@ -1,7 +1,7 @@
 # ChainSignal
 Your Web3 World, Telegram-Tapped!
 
-## [App Walkthrough on YouTube](https://www.youtube.com/watch?v=8d8) <<< Click Here
+## [App Walkthrough on YouTube](https://www.youtube.com/watch?v=Lioy-HFxiwQ) <<< Click Here
 
 <hr>
 
